@@ -1,0 +1,11 @@
+name = "AlwaysSeqCstTests"
+uuid = "65e59e53-d4f6-46a3-b2e5-eefd2f4f7dca"
+authors = ["Takafumi Arakaki <aka.tkf@gmail.com> and contributors"]
+version = "0.1.0-DEV"
+
+[deps]
+AlwaysSeqCst = "2a0a5ff3-012c-40a8-861a-42ef8f4dfa06"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+julia = "1.6"
